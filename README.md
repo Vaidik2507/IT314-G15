@@ -3,15 +3,15 @@ Hospital Management System
 
 Front-end contributions: 
 
-Utpal Busa: Frontend (admin page)
+Utpal Busa: Frontend (Home Page, Admin Page)
 
-Aryan Vagh: Frontend (doctor page)
+Aryan Vagh: Frontend (Patient Page)
 
-Prince Barad: Frontend (patient page)
+Prince Barad: Frontend (Doctor Page)
 
-Mayur Suthar: Frontend (receptionist page)
+Mayur Suthar: Frontend (Receptionist Page)
 
-Divyam Oza: Frontend (receptionist page)
+Divyam Oza: Frontend (Receptionist Page)
 
 
 
